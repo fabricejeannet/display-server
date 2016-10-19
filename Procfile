@@ -1,1 +1,1 @@
-web: sh target/bin/displayserver
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* DisplayServer
