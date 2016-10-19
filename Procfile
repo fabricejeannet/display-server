@@ -1,1 +1,1 @@
-web: sh target/bin/web.DisplayServer
+web: sh target/web/DisplayServer
